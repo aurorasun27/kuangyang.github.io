@@ -1,2 +1,2 @@
 # kuangyang.github.io
-hello-word
+My first GitHub Pages Repostory
